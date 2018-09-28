@@ -1,0 +1,2 @@
+# MOREARDUINOCODE
+MIKE LOOK ARDUINO CODE for potentiometer
