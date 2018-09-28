@@ -2,12 +2,13 @@
 //MIKE LOOK ARDUINO CODE for potentiometer
 
 /*
-Potentiometer and switching LEDs
 
-programming 
- 
-
- Source: http://www.arduino.cc/en/Tutorial/AnalogInput
+Your name: Elias Han
+Date: 9/28/18
+Project/assignment name: 'Potentiometer Pete'
+Description: Potentiometer: Turning a dial shifts which light is on
+  
+  credit: http://www.arduino.cc/en/Tutorial/AnalogInput
 */
 
 int sensorPin = A0;    // select the input pin for the potentiometer
